@@ -1,0 +1,7 @@
+cd /caminho/para/seu/projeto
+git init
+git add .
+git commit -m "Cassino Supremo com visual impactante e bônus de boas-vindas"
+git branch -M main
+git remote add origin https://github.com/m100040/cassino-supremo.git
+git push -u origin main
